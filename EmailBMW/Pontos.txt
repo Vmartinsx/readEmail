@@ -1,0 +1,11 @@
+-pode vir mais de dois anexos
+- incluir mias uma coluna - validaçao
+- dados da planilha de extração ja vão vir com os dados das colunas incluidas.
+
+
+03/12
+
+Na planilha que le recebe o os dados existe uma coluna a mais.
+Manter?
+incluir na outra planilha?
+
